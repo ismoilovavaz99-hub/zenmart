@@ -928,7 +928,7 @@ justify-content: space-between;
     color: #0053f6;
 }
 
-/* PRODUCT FRAME */
+/* SPES PRODUCT FRAME */
 
 .home_page .spes_product_frame {
     position: relative;
@@ -943,6 +943,16 @@ justify-content: space-between;
   
   .spes_product_frame .container {
     flex-direction: column;
+  }
+  .container .category_top {
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
   }
   
   .container .spes_product_wrapper {

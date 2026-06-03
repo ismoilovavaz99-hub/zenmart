@@ -797,8 +797,9 @@ font-weight: 400;
 }
 
 .selling_product_frame .product_wrapper .next_prev_box {
+    z-index: 8;
    width: 25px;
-display: inline;
+   display: inline;
    display: flex;
    flex-direction: row;
    justify-content: space-between;

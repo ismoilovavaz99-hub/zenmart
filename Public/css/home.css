@@ -390,7 +390,6 @@ font-weight: 400;
 
 /* Home Page */
 .home_page {
-    padding-bottom: 200px;
     display: flex;
     flex-direction: column;
 }
